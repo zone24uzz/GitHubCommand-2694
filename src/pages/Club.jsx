@@ -1,6 +1,8 @@
 import React from "react";
 import HouseImg from "./../assets/house.png";
 import HeaderImg from "./../assets/Header.png";
+import Footer from "../components/Footer";
+
 
 const Club = () => {
   return (
@@ -66,6 +68,8 @@ const Club = () => {
           </button>
         </div>
       </div>
+
+      <Footer />
     </div>
   );
 };
