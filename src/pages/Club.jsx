@@ -6,21 +6,6 @@ const Club = () => {
   return (
     <div className="max-w-[1440px] mx-auto font-sans bg-white text-black">
       {/* Header */}
-      <header className="flex items-center justify-between px-6 py-4 border-b">
-        <img src={HeaderImg} alt="logo" className="h-8 text" />
-
-        <nav className="flex gap-6 text-sm">
-          <a href="#">О БРЕНДЕ</a>
-          <a href="#">ПРОДУКЦИЯ</a>
-          <a href="#">ПРЕИМУЩЕСТВА</a>
-          <a href="#">ОТКРЫТЬ КЛУБ</a>
-          <a href="#">КОНТАКТЫ</a>
-        </nav>
-
-        <button className="bg-cyan-500 text-white px-4 py-2 text-sm rounded">
-          ОСТАВИТЬ ЗАЯВКУ
-        </button>
-      </header>
 
       {/* Banner */}
       <div className="bg-cyan-500 text-white text-center py-6 text-xl font-semibold">
