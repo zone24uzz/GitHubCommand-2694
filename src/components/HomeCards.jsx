@@ -40,11 +40,11 @@ const HomeCards = () => {
 
           {/* Bottom-left: light text card */}
           <div className='bg-[#01AEE7] flex flex-col justify-center p-[24px] md:p-[32px] h-[240px] md:h-[300px]'>
-            <h3 className='text-black font-black text-[22px] md:text-[28px] leading-tight uppercase mb-[10px]'>
+            <h3 className='text-white font-black text-[22px] md:text-[28px] leading-tight uppercase mb-[10px]'>
               ВЫСОКОЕ КАЧЕСТВО И<br />НАДЕЖНОСТЬ
             </h3>
             <div className='w-[40px] h-[3px] bg-[#F5C518] mb-[10px] md:mb-[14px]' />
-            <p className='text-gray-600 text-[12px] md:text-[13px] leading-[1.6]'>
+            <p className='text-white text-[12px] md:text-[13px] leading-[1.6]'>
               Высокое Качество Тренажеров — Это Визитная Карточка TRUE. Кроме Того TRUE Предоставляет До 5 Лет Гарантии На Кардиотренажеры.
             </p>
           </div>
