@@ -39,7 +39,7 @@ const HomeCards = () => {
           </div>
 
           {/* Bottom-left: light text card */}
-          <div className='bg-[#f4f4f4] flex flex-col justify-center p-[24px] md:p-[32px] h-[240px] md:h-[300px]'>
+          <div className='bg-[#01AEE7] flex flex-col justify-center p-[24px] md:p-[32px] h-[240px] md:h-[300px]'>
             <h3 className='text-black font-black text-[22px] md:text-[28px] leading-tight uppercase mb-[10px]'>
               ВЫСОКОЕ КАЧЕСТВО И<br />НАДЕЖНОСТЬ
             </h3>
